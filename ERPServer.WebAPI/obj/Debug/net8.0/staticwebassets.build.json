@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "n481+uqvgcKbkXVhh+2Jvr2q6ULBdjS29w4Q45BlXYY=",
+  "Source": "ERPServer.WebAPI",
+  "BasePath": "_content/ERPServer.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

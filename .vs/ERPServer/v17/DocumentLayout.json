@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ali Can\\Desktop\\ERP\\gffg\\ERP.Udemy\\ERPServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ali Can\\Desktop\\ERP\\gffg\\ERP.Udemy\\ERPServer\\ERPServer.Infrastructure\\Migrations\\20240623185731_mgdd2323.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERPServer.Infrastructure\\Migrations\\20240623185731_mgdd2323.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB790507-32FE-4316-B438-670A12E2BF35}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|c:\\users\\ali can\\desktop\\erp\\gffg\\erp.udemy\\erpserver\\erpserver.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB790507-32FE-4316-B438-670A12E2BF35}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|solutionrelative:erpserver.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB790507-32FE-4316-B438-670A12E2BF35}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|c:\\users\\ali can\\desktop\\erp\\gffg\\erp.udemy\\erpserver\\erpserver.webapi\\erpserver.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB790507-32FE-4316-B438-670A12E2BF35}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|solutionrelative:erpserver.webapi\\erpserver.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D441BE40-CEFE-4CC5-BDB2-28E6CC20EAEB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ali can\\desktop\\erp\\gffg\\erp.udemy\\erpserver\\erpserver.application\\features\\products\\getallproduct\\getallproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D441BE40-CEFE-4CC5-BDB2-28E6CC20EAEB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\products\\getallproduct\\getallproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D441BE40-CEFE-4CC5-BDB2-28E6CC20EAEB}|ERPServer.Application\\ERPServer.Application.csproj|C:\\Users\\Ali Can\\Desktop\\ERP\\gffg\\ERP.Udemy\\ERPServer\\erpserver.application\\features\\products\\getallproduct\\getallproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D441BE40-CEFE-4CC5-BDB2-28E6CC20EAEB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\products\\getallproduct\\getallproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240623185731_mgdd2323.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\Desktop\\ERP\\gffg\\ERP.Udemy\\ERPServer\\ERPServer.Infrastructure\\Migrations\\20240623185731_mgdd2323.cs",
+              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Migrations\\20240623185731_mgdd2323.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\Desktop\\ERP\\gffg\\ERP.Udemy\\ERPServer\\ERPServer.Infrastructure\\Migrations\\20240623185731_mgdd2323.cs",
+              "RelativeToolTip": "ERPServer.Infrastructure\\Migrations\\20240623185731_mgdd2323.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:57:31.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\Desktop\\ERP\\gffg\\ERP.Udemy\\ERPServer\\ERPServer.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ERPServer.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ali Can\\Desktop\\ERP\\gffg\\ERP.Udemy\\ERPServer\\ERPServer.WebAPI\\appsettings.json",
+              "RelativeToolTip": "ERPServer.WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-23T18:56:39.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ERPServer.WebAPI",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\Desktop\\ERP\\gffg\\ERP.Udemy\\ERPServer\\ERPServer.WebAPI\\ERPServer.WebAPI.csproj",
+              "RelativeDocumentMoniker": "ERPServer.WebAPI\\ERPServer.WebAPI.csproj",
+              "ToolTip": "C:\\Users\\Ali Can\\Desktop\\ERP\\gffg\\ERP.Udemy\\ERPServer\\ERPServer.WebAPI\\ERPServer.WebAPI.csproj",
+              "RelativeToolTip": "ERPServer.WebAPI\\ERPServer.WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T18:56:35.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllProductQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\Desktop\\ERP\\gffg\\ERP.Udemy\\ERPServer\\ERPServer.Application\\Features\\Products\\GetAllProduct\\GetAllProductQueryHandler.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Products\\GetAllProduct\\GetAllProductQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\Desktop\\ERP\\gffg\\ERP.Udemy\\ERPServer\\ERPServer.Application\\Features\\Products\\GetAllProduct\\GetAllProductQueryHandler.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Products\\GetAllProduct\\GetAllProductQueryHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:58:06.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllProductQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Ali Can\\Desktop\\ERP\\gffg\\ERP.Udemy\\ERPServer\\ERPServer.Application\\Features\\Products\\GetAllProduct\\GetAllProductQuery.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Products\\GetAllProduct\\GetAllProductQuery.cs",
+              "ToolTip": "C:\\Users\\Ali Can\\Desktop\\ERP\\gffg\\ERP.Udemy\\ERPServer\\ERPServer.Application\\Features\\Products\\GetAllProduct\\GetAllProductQuery.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Products\\GetAllProduct\\GetAllProductQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:56:25.812Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 366,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
